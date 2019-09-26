@@ -1,6 +1,10 @@
 1111111111111111
 22222
+<<<<<<< HEAD
 ddddd
 rrrrrrrrrrrr
 tttttttttttttt
 55555555555555
+add some centent to hello.txt
+111111111111111
+wwwwwwwwwwwwwww
